@@ -1,0 +1,23 @@
+{
+  "media" : {
+    "id1" : {
+      "type" : "naam"
+    },
+    "id2" : {
+      "type" : "naam"
+    }
+  },
+
+  "datum" : {
+    "id1" : {
+      "datum" : "datum"
+    },
+    "id2" : {
+      "datum" : "datum"
+    }
+  },
+
+  "startTijd" : {...},
+  "eindTijd" : {...},
+  "mening" : {...}
+}

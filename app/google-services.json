@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356274642819",
+    "firebase_url": "https://mediam-282af.firebaseio.com",
+    "project_id": "mediam-282af",
+    "storage_bucket": "mediam-282af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356274642819:android:ab1b4ed77b518fbd",
+        "android_client_info": {
+          "package_name": "com.example.ben_e.mediam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356274642819-arip7gs4dn3k5mbvclkangmdpg4fso8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ben_e.mediam",
+            "certificate_hash": "f17c35cfda9fbc2f6c99dc268f4e0441df69d499"
+          }
+        },
+        {
+          "client_id": "356274642819-tea5bs2fj49cvoq31kmm1ulupiu3apop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5aamriyNcoCMzV90tQQNUDm8Vc7a8c6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356274642819-tea5bs2fj49cvoq31kmm1ulupiu3apop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

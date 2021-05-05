@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">356274642819-tea5bs2fj49cvoq31kmm1ulupiu3apop.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mediam-282af.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">356274642819</string>
+    <string name="google_api_key" translatable="false">AIzaSyD5aamriyNcoCMzV90tQQNUDm8Vc7a8c6c</string>
+    <string name="google_app_id" translatable="false">1:356274642819:android:ab1b4ed77b518fbd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD5aamriyNcoCMzV90tQQNUDm8Vc7a8c6c</string>
+    <string name="google_storage_bucket" translatable="false">mediam-282af.appspot.com</string>
+    <string name="project_id" translatable="false">mediam-282af</string>
+</resources>
